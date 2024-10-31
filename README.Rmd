@@ -24,7 +24,7 @@ sparkr(give_idea = TRUE)
 ```
 or
 ```r
-spakrr(give_idea = FALSE)
+sparkr(give_idea = FALSE)
 ```
 
 ## Installation
