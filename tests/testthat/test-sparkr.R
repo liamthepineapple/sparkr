@@ -1,4 +1,4 @@
-
+#requires you to run this command first: usethis::use_testthat(3)
 library(testthat)
 
 
