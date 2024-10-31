@@ -2,22 +2,23 @@
 % Please edit documentation in R/sparkr.R
 \name{sparkr}
 \alias{sparkr}
-\title{Give a random idea or "spark" of an activity to do.}
+\title{#' Give a random idea or "spark" of an activity to do.}
 \usage{
-sparkr(give_idea = TRUE)
+sparkr(give_idea = TRUE, category = NULL)
 }
 \arguments{
-\item{give_idea}{Logical. Set to TRUE to get a randomly selected idea of something to do}
+\item{give_idea}{Logical. Set to TRUE to get a randomly selected idea of something to do.}
+
+\item{category}{An optional category to filter ideas (e.g., Physical, Wellness, Creative, Social, Bad).}
 }
 \value{
-Gives the product of \code{give_idea}. A random idea from a predefined list of activities.
+A random idea from a predefined list of activities or a message if no idea is selected.
 }
 \description{
-Give a random idea or "spark" of an activity to do.
+#' Give a random idea or "spark" of an activity to do.
 }
 \examples{
-sparkr(TRUE)
-sparkr(give_idea = TRUE)
-sparkr(give_idea = FALSE)
-
+sparkr(TRUE)              # Get a random idea
+sparkr(give_idea = TRUE) # Get a random idea
+sparkr(give_idea = FALSE) # Responds without providing an idea
 }

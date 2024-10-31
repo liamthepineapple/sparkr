@@ -14,6 +14,21 @@ a sample dataset with their respective documentation.
 \references{
 \url{}
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/liamthepineapple/sparkr}
+  \item Report bugs at \url{https://github.com/liamthepineapple/sparkr/issues}
+}
+
+
+Useful links:
+\itemize{
+  \item \url{https://github.com/liamthepineapple/sparkr}
+  \item Report bugs at \url{https://github.com/liamthepineapple/sparkr/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Liam Surry \email{surryl@mcmaster.ca} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
