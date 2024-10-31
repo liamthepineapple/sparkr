@@ -1,0 +1,17 @@
+Package: sparkr
+Title: Gives an idea or spark of inspiration for an activity to do
+Version: 0.0.0.9000
+Authors@R: 
+    person("Liam", "Surry", , "surryl@mcmaster.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A package for giving you a random idea of something to do when you are lacking inspiration. Ideas are predetermined in a list and randomly selected for you to enjoy. Arguments for this function are simply TRUE or FALSE. 
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
