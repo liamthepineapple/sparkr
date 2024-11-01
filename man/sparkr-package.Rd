@@ -11,13 +11,11 @@ This package is an exercise in package creation using
 R studio. The package includes a sample function and
 a sample dataset with their respective documentation.
 }
-\references{
-\url{}
-}
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/liamthepineapple/sparkr}
+  \item \url{https://liamthepineapple.github.io/sparkr/}
   \item Report bugs at \url{https://github.com/liamthepineapple/sparkr/issues}
 }
 
@@ -25,6 +23,7 @@ Useful links:
 Useful links:
 \itemize{
   \item \url{https://github.com/liamthepineapple/sparkr}
+  \item \url{https://liamthepineapple.github.io/sparkr/}
   \item Report bugs at \url{https://github.com/liamthepineapple/sparkr/issues}
 }
 
