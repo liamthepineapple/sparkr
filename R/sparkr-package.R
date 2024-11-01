@@ -16,5 +16,5 @@ NULL
 #' @docType package
 #' @name sparkr-package
 #' @author Liam Surry, Department of Chemistry and Chemical Biology \email{surryl@@mcmaster.ca}
-#' @references \url{}
+#'
 NULL
