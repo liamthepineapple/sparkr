@@ -18,7 +18,7 @@ sparkr(give_idea = TRUE)
 or
 
 ``` r
-spakrr(give_idea = FALSE)
+sparkr(give_idea = FALSE)
 ```
 
 ## Installation
@@ -26,5 +26,6 @@ spakrr(give_idea = FALSE)
 You can install the development version of sparkr like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+install_github("liamthepineapple/sparkr")
+library(sparkr)
 ```
