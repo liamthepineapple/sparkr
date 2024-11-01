@@ -15,5 +15,5 @@ LazyData: true
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/liamthepineapple/sparkr
+URL: https://github.com/liamthepineapple/sparkr, https://liamthepineapple.github.io/sparkr/
 BugReports: https://github.com/liamthepineapple/sparkr/issues
