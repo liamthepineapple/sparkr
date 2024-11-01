@@ -28,7 +28,8 @@ sparkr(give_idea = TRUE, category = NULL)
 ```
 
 Categories can be Physical, Social, Creative, Wellness, and Bad.
-Category is not required for functioning package.
+Category is not required for the package to work. sparkr comes with a
+preexisting dataset that includes the idea data and the catagoeires.
 
 ## Installation
 
