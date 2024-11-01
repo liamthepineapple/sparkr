@@ -21,11 +21,25 @@ or
 sparkr(give_idea = FALSE)
 ```
 
+or
+
+``` r
+sparkr(give_idea = TRUE, category = NULL)
+```
+
+Categories can be Physical, Social, Creative, Wellness, and Bad.
+Category is not required for functioning package.
+
 ## Installation
 
 You can install the development version of sparkr like so:
 
 ``` r
+install.packages("devtools")
+install.packages("usethis")
+library(devtools)
+library(usethis)
+
 install_github("liamthepineapple/sparkr")
 library(sparkr)
 ```
